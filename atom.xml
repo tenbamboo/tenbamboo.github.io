@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Tenbamboo</title>
+  <title>TenBamboo</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-29T12:40:28.876Z</updated>
+  <updated>2016-08-31T13:00:48.669Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,13 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://yoursite.com/2016/08/31/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2016/08/31/第一篇文章/</id>
+    <published>2016-08-31T12:58:10.221Z</published>
+    <updated>2016-08-31T13:00:48.669Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我第一次写博客，其实我的文笔不怎么好，能写出一个完整的句子我已经很庆幸了，我写博客算是一种技术的积累和生活的记录吧，这里不仅仅局限于技术，可能有时会扯扯蛋，也会用我的看法来说说互联网中的人或事，我也希望每天抽出1-2小时下来静静，总结下今天我做的和看到，就酱。</p>
+<p>用右眼看世界<br><a id="more"></a><br><img src="http://tenbamboo.qiniudn.com/2016-08-31-1.jpg" alt=""></p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-08-31-2.jpg" alt=""></p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-08-31-3.jpg" alt=""></p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-08-31-4.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是我第一次写博客，其实我的文笔不怎么好，能写出一个完整的句子我已经很庆幸了，我写博客算是一种技术的积累和生活的记录吧，这里不仅仅局限于技术，可能有时会扯扯蛋，也会用我的看法来说说互联网中的人或事，我也希望每天抽出1-2小时下来静静，总结下今天我做的和看到，就酱。&lt;/p&gt;
+&lt;p&gt;用右眼看世界&lt;br&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/08/29/hello-world/"/>
     <id>http://yoursite.com/2016/08/29/hello-world/</id>
     <published>2016-08-29T12:40:28.799Z</published>
-    <updated>2016-08-29T12:40:28.876Z</updated>
+    <updated>2016-08-31T13:01:05.110Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -35,7 +61,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
     
     </summary>
     
