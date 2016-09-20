@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-03T03:16:07.211Z</updated>
+  <updated>2016-09-20T12:33:44.308Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于付费阅读、IOS10、其他</title>
+    <link href="http://yoursite.com/2016/09/20/%E5%85%B3%E4%BA%8E%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E3%80%81IOS10%E3%80%81%E5%85%B6%E4%BB%96/"/>
+    <id>http://yoursite.com/2016/09/20/关于付费阅读、IOS10、其他/</id>
+    <published>2016-09-20T12:33:33.355Z</published>
+    <updated>2016-09-20T12:33:44.308Z</updated>
+    
+    <content type="html"><![CDATA[<p>这几天拜读了大fenng 和 和菜头 的一些关于付费阅读的文章，感觉挺有意思，在这我想讨论下吧。</p>
+<p>其实付费阅读这事可以过滤好多没有授权并转发文章这些破事，也是对于这些大神业余时间的基本回报吧，但是在我看来，这些大神貌似不是以赚钱来写文章，而是兴趣，真好。</p>
+<p>还有就是拜读和菜头的推送的一篇文章讲的纸媒对网络上的文章嗤之以鼻，就现在网络发达程度，我就感觉奇怪了，纸媒哪来的勇气来看不起网文。</p>
+<p>IOS升级到10，整体感觉还是不错，听大Fenng说，有个功能不错，就是在Mac上复制，然后在你的手机中粘贴，可以实现跨设备的cv操作，真不错。<br>但是有个bug，手机锁屏后，你再不安home键，用指纹来识别或在手机黑屏后在屏幕上随意点，有一定几率就吧屏幕唤醒，bug的根源还没有找到，就感觉有点意思。</p>
+<p>还有想给招商网上银行App点赞，出了一个指纹登录账户,指纹直接登录很方便。</p>
+<p>马上到国庆节，都有什么打算来度过7天长假？</p>
+<p>用右眼看世界</p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-09-20-1.jpg" alt=""></p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-09-20-2.jpg" alt=""></p>
+<p><img src="http://tenbamboo.qiniudn.com/2016-09-20-3.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这几天拜读了大fenng 和 和菜头 的一些关于付费阅读的文章，感觉挺有意思，在这我想讨论下吧。&lt;/p&gt;
+&lt;p&gt;其实付费阅读这事可以过滤好多没有授权并转发文章这些破事，也是对于这些大神业余时间的基本回报吧，但是在我看来，这些大神貌似不是以赚钱来写文章，而是兴趣，真好。&lt;/p
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>乱七八糟</title>
