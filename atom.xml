@@ -81,7 +81,7 @@
     <link href="http://yoursite.com/2016/09/21/pjax%E5%AE%9E%E7%8E%B0-%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D/"/>
     <id>http://yoursite.com/2016/09/21/pjax实现-基本介绍/</id>
     <published>2016-09-21T12:54:11.681Z</published>
-    <updated>2016-09-27T03:46:21.582Z</updated>
+    <updated>2016-09-27T03:54:37.093Z</updated>
     
     <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>现说下pjax的含义：page + ajax =pjax<br>其实就是无刷新的加载DOM到页面中，也就是单页设计。<br><a id="more"></a><br>其实这个很简单，通过jquery的$(selector).load(url),这种方式来实现异步来加载网页到指定的selector中。</p>
 <p>但是这里需要实现一个浏览器回退的功能,这里可以使用History API，前提是浏览器得支持，<a href="http://caniuse.com/#search=history.pushState" target="_blank" rel="external">点击这里看浏览器支持程度</a>。</p>
@@ -95,7 +95,7 @@
 <p><br><br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">方法<span class="number">2</span>：history.replaceState(stateObject, title, url)</div></pre></td></tr></table></figure></p>
 <p>说明:这个方法在当前History这个数组中替换URL，也就是将当前历史记录替换掉，参数和pushState一致<br><br><br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">事件：<span class="built_in">window</span>.onpopstate</div></pre></td></tr></table></figure></p>
 <p>说明:push的对立就是pop，这个事件是在浏览器取出历史记录并加载时触发的。但实际上，它的条件是比较苛刻的，几乎只有点击浏览器的“前进”、“后退”这些导航按钮，或者是由JavaScript调用的history.back()等导航方法，且切换前后的两条历史记录都属于同一个网页文档，才会触发本事件。<br>咱们就是通过这个事件监控来动态加载html到指定的DOM中，来实现pjax的。</p>
-<p><br><br><br>用右眼看世界</p>
+<p><a href="https://tenbamboo.github.io/2016/09/27/pjax%E5%AE%9E%E7%8E%B0-%E6%8F%92%E4%BB%B6%E5%AE%9E%E7%8E%B0/" target="_blank" rel="external">下一篇介绍插件实际</a><br><br><br><br>用右眼看世界</p>
 <p><img src="http://tenbamboo.qiniudn.com/2016-09-21-01.jpg" alt=""></p>
 <p><img src="http://tenbamboo.qiniudn.com/2016-09-21-02.jpg" alt=""></p>
 <p><img src="http://tenbamboo.qiniudn.com/2016-09-21-03.jpg" alt=""></p>
